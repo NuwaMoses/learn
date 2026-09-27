@@ -538,6 +538,10 @@
       "groupName": "Userland Migrations",
       "items": [
         {
+          "link": "/learn/userland-migrations/ansi-colors-to-styletext",
+          "label": "ansi-colors to util.styleText"
+        },
+        {
           "link": "/learn/userland-migrations/axios-to-whatwg-fetch",
           "label": "Axios to WHATWG Fetch"
         },
